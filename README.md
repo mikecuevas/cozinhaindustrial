@@ -1,4 +1,3 @@
 # cozinhaindustrial
 
-Melhorar o codigo<br>
-Arrumar a responsividade 
+tarefa da disciplina DAS5308 - Programação de Sistemas Automatizados
